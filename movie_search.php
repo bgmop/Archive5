@@ -4,7 +4,7 @@
 ?>
 
 <form action="movies.php" method="post">
-<label>Enter title:</label>
+<label>Enter Title:</label>
 <input type="text" name="title" required/>
 <input type="submit" value="Search" />
 <input type="hidden" name="action" value="list" /><br>
